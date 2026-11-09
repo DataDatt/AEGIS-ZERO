@@ -1,0 +1,8 @@
+{
+  "name": "AEGIS-ZERO",
+  "description": "Autonomous Anti-Gambling Interceptor, Financial Rail Auditor, Chrome Extension Enforcer Compiler, and Active Sensory Disruption System.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
